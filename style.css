@@ -1,0 +1,84 @@
+.extra-infos {
+    background-color: #000000;
+    width: 330px;
+    height: 250px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.extra-infos-text {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding-left: 28.4px;
+}
+.time {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #ffffff;
+    position: absolute; 
+    bottom: 20px; 
+    right: 15px; 
+    width: 100px; 
+    text-align:right
+}
+
+
+/* Just the close btn: https://codepen.io/brissmyr/pen/egidw */
+.close {
+    position: absolute;
+    right: 62px;
+    top: 40px;
+    width: 10px;
+    height: 10px;
+    opacity: 0.5;
+  }
+  .close:hover {
+    opacity: 1;
+  }
+  .close:before, .close:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 22px;
+    width: 2px;
+    background-color: rgb(0, 0, 0);
+  }
+  .close:before {
+    transform: rotate(45deg);
+  }
+  .close:after {
+    transform: rotate(-45deg);
+  }
+
+  /* Just the open btn: https://codepen.io/brissmyr/pen/egidw */
+.open {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  opacity: 0.5;
+}
+.open:hover {
+  opacity: 1;
+}
+.open:before, .open:after {
+  position: absolute;
+  content: ' ';
+  height: 22px;
+  width: 2px;
+  background-color: rgb(0, 0, 0);
+}
+.open:before {
+  transform: rotate(90deg);
+}
+.open:after {
+  transform: rotate(0deg);
+}
+
+.Puilolive {
+  width: 507.6px;
+  height: 104.3px;
+  padding-left: 5vw;
+  padding-top: 19vh;
+}
+
+
