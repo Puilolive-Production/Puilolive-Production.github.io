@@ -1,8 +1,7 @@
 # Puilolive Production Website
 
-This is the official website of Puilolive Production. You can get everything you need from here, including the application, some information of ours and also the way to contact us.
-**Under Development now.**
-DEMO:https://puilolive-production.github.io/
+[This](https://puilolive-production.github.io/) is the official website of Puilolive Production. You can get everything you need from here, including the application, some information of ours and also the way to contact us.
+
 ## Welcome Page
 
 Welcome! — And that's it. Nothing more. You can then jump to other pages by clicking the plus sign at the top-right corner.
