@@ -54,9 +54,9 @@ body,
 	right: 0;
 	z-index: 100;
 	visibility: hidden;
-	width: 330px;
+	width: 365px;
 	height: 100%;
-	background: #e67e07;
+	background: #ff8512;
 	-webkit-transition: all 0.5s;
 	transition: all 0.5s;
 }
