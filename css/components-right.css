@@ -136,4 +136,9 @@ body,
 	display: none;
 }
 
+@media only screen and (max-width: 768px) {
+	.st-menu{
+		width: 100%;
+	}
+}
 
